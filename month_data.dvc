@@ -1,0 +1,5 @@
+outs:
+- md5: 89aebadbe7e3d8b201d680c19432a680.dir
+  size: 221154
+  nfiles: 4
+  path: month_data
