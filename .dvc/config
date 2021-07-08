@@ -1,0 +1,4 @@
+[core]
+    remote = eltremote
+['remote "eltremote"']
+    url = s3://rahulrajdvcs3/etli_test/
