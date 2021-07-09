@@ -1,0 +1,5 @@
+outs:
+- md5: 7c1d0d32d9418532cba61328b2595684
+  size: 17004
+  path: test.txt
+  isexec: true

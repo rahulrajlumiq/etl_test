@@ -1,0 +1,5 @@
+outs:
+- md5: c413676c0d10f40213804630cb852795
+  size: 187490
+  path: train.txt
+  isexec: true
